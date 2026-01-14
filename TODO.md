@@ -1,0 +1,4 @@
+- [ ] Update logo src in Products.html to "/logo.png"
+- [ ] Update logo src in About.html to "/logo.png"
+- [ ] Update logo src in Register.html to "/logo.png"
+- [ ] Update logo src in Login.html to "/logo.png"
